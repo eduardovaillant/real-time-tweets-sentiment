@@ -12,7 +12,7 @@
   </a>
 </p>
 
-> A Twitter Sentiment Analysis app
+> A Tweets Sentiment Analysis application
 
 ### 🏠 [Homepage](https://github.com/eduardovaillant/twitter-client#readme)
 
